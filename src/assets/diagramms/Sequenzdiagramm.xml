@@ -1,0 +1,79 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;\" value=\"Interaktionsname\" vertex=\"1\"&gt;&lt;mxGeometry height=\"180\" width=\"340\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 340,
+    "h": 180,
+    "aspect": "fixed",
+    "title": "Interaktionsrahmen"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 0.8333333333333334,
+    "aspect": "fixed",
+    "title": "Antwortnachricht"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=block;endFill=1;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 0.8333333333333334,
+    "aspect": "fixed",
+    "title": "Synchroner Operationsaufruf"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 0.8333333333333334,
+    "aspect": "fixed",
+    "title": "Asynchroner Operationsaufruf"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"20\" y=\"100\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"15\" y=\"230\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;\" value=\":Actor&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 230,
+    "aspect": "fixed",
+    "title": "Akteur mit Lebenslinie"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;exitX=0.5;exitY=1;exitDx=0;exitDy=0;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"55\" y=\"45\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" y=\"190\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"rounded=0;dashed=0;whiteSpace=wrap;html=1;container=0;\" value=\":Object\" vertex=\"1\"&gt;&lt;mxGeometry height=\"42.85714285714286\" width=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 190,
+    "aspect": "fixed",
+    "title": "Objekt mit Lebenslinie"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;exitX=0.5;exitY=1;exitDx=0;exitDy=0;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"55\" y=\"45\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" y=\"190\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"rounded=0;dashed=0;whiteSpace=wrap;html=1;container=0;\" value=\":Object\" vertex=\"1\"&gt;&lt;mxGeometry height=\"42.85714285714286\" width=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"1\" style=\"rounded=0;dashed=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"10\" x=\"45\" y=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 190,
+    "aspect": "fixed",
+    "title": "Lebenslinie mit Ausführungssequenz"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;dashed=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 10,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Ausführungssequenz"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=umlDestroy;html=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Destruktor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" edge=\"1\" parent=\"1\" source=\"3\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;exitX=0.5;exitY=1;exitDx=0;exitDy=0;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"135\" y=\"45\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"130\" y=\"190\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"rounded=0;dashed=0;whiteSpace=wrap;html=1;container=0;\" value=\":Object\" vertex=\"1\"&gt;&lt;mxGeometry height=\"42.85714285714286\" width=\"100\" x=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"1\" style=\"rounded=0;dashed=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"10\" x=\"125\" y=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" edge=\"1\" parent=\"1\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;\" value=\"new\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" x=\"0.25\" y=\"11\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint y=\"21.00999999999999\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"80\" y=\"21.00999999999999\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 180,
+    "h": 190,
+    "aspect": "fixed",
+    "title": "Objekterzeugung"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" connectable=\"0\" parent=\"1\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"520\" width=\"730\" x=\"2.2737367544323206e-13\" y=\"1.1368683772161603e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"2\" style=\"whiteSpace=wrap;html=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"520\" width=\"730\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Antwortnachricht\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"512\" y=\"270\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Synchroner Operationsaufruf\" vertex=\"1\"&gt;&lt;mxGeometry height=\"20\" width=\"70\" x=\"552\" y=\"310\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Asynchroner Operationsaufruf\" vertex=\"1\"&gt;&lt;mxGeometry height=\"20\" width=\"70\" x=\"552\" y=\"345\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Akteur mit Lebenslinie\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"162\" y=\"210\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"8\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Objekt mit Lebenslinie\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"162\" y=\"387.86\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"9\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Interaktionsrahmen\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"162\" y=\"42.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"10\" parent=\"2\" style=\"shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=98;height=20;\" value=\"Name\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"136\" x=\"24\" y=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"11\" edge=\"1\" parent=\"2\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;dashed=1;dashPattern=8 8;endArrow=open;endFill=0;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint x=\"412\" y=\"277.26\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"492\" y=\"277.26\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"12\" edge=\"1\" parent=\"2\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=block;endFill=1;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint x=\"412\" y=\"314.76\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"492\" y=\"314.76\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"13\" edge=\"1\" parent=\"2\" style=\"edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=open;endFill=0;\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" width=\"80\" as=\"geometry\"&gt;&lt;Array as=\"points\"/&gt;&lt;mxPoint x=\"412\" y=\"354.76\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"492\" y=\"354.76\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"14\" edge=\"1\" parent=\"2\" source=\"15\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;exitX=0.5;exitY=1;exitDx=0;exitDy=0;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"97\" y=\"390\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"92\" y=\"460\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"15\" parent=\"2\" style=\"rounded=0;dashed=0;whiteSpace=wrap;html=1;container=0;\" value=\":Object\" vertex=\"1\"&gt;&lt;mxGeometry height=\"42.85714285714286\" width=\"100\" x=\"42\" y=\"345\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"16\" edge=\"1\" parent=\"2\" source=\"17\" style=\"edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;sourcePerimeterSpacing=25;\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"97\" y=\"240\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"92\" y=\"300\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"17\" parent=\"2\" style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;\" value=\":Actor&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"30\" x=\"77\" y=\"140\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"18\" parent=\"2\" style=\"shape=umlDestroy;html=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"30\" x=\"432\" y=\"210\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"19\" parent=\"2\" style=\"rounded=0;dashed=0;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"10\" x=\"442\" y=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"20\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Ausführungssequenz\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"512\" y=\"142.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"21\" parent=\"2\" style=\"text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;\" value=\"Destruktor\" vertex=\"1\"&gt;&lt;mxGeometry height=\"15\" width=\"150\" x=\"512\" y=\"217.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 730,
+    "h": 520,
+    "aspect": "fixed",
+    "title": "Übersicht"
+  }
+]</mxlibrary>
