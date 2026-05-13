@@ -83,7 +83,7 @@ const DRAWIO_CONFIG = {
   enabledLibraries: [],
   enableCustomLibraries: false,
   appendCustomLibraries: false,
-  expandLibraries: true,
+  expandLibraries: false,
   libraries: [
     {
       title: label('UML Notationen'),
